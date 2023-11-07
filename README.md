@@ -1,21 +1,29 @@
 # Project Name
 
-This project involves the analysis and visualization of New York City taxi trip data from the year 2017. The dataset includes information about taxi rides, such as pickup and drop-off times, locations, passenger counts, distances, and fare details. 
-
-## Table of Contents
-
-- [About](#about)
+## Table Of Contents
+- [Overview](#overview)
 - [Prerequisites](#prerequisites)
+- [Key Features](#key-features)
+- [Skills Utilized](#skills-utilized)
 
-
-## About
-
-The project aims to gain insights into the patterns and characteristics of taxi rides in the city, including ride counts, passenger counts, trip distances, and revenue generated. It also explores how these patterns vary by day of the week and month. The project further investigates the distribution of drop-off locations and the average trip distance to these locations.
+## Overview
+This project focuses on the exploration and visualization of a dataset related to Yellow Taxi trips in 2017. It includes data exploration, data cleaning, and various data visualizations to gain insights into passenger counts, trip distances, revenues, and more.
 
 ## Prerequisites
+Before running the project, ensure you have the following prerequisites in place:
+- Jupyter Notebook or similar tool for running Python code.
+- Required Python libraries: NumPy, Pandas, Matplotlib, Seaborn.
 
-Python installed (Python 3.x recommended)
-Jupyter Notebook installed
-Dataset: "2017_Yellow_Taxi_Trip_Data.csv"
+## Key Features
+- Data Exploration: The project offers an in-depth data exploration, providing a summary of the dataset's structure.
+- Data Visualization: It includes various data visualizations, such as histograms, bar plots, and box plots, to analyze passenger counts, trip distances, revenues, and more.
+- Interpretation of Results: The visualizations allow for interpretation of the dataset's key insights, such as identifying outliers and patterns.
 
-## Technical 
+## Skills Utilized
+This project involves the application of several data analysis and data visualization skills, including:
+- Data cleaning and preparation
+- Data exploration and summary statistics
+- Data visualization using Matplotlib and Seaborn
+- Interpretation of data through visualization
+
+Feel free to follow the instructions provided in the README to explore and analyze the dataset effectively.
